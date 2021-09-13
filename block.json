@@ -1,0 +1,17 @@
+{
+	"apiVersion": 2,
+	"name": "yellowduck/site-logo",
+	"version": "0.1.0",
+	"title": "YellowDuck Logo",
+	"category": "widgets",
+	"icon": "art",
+	"description": "Example block written with ESNext standard and JSX support – build step required.",
+	"supports": {
+	  "html": false,
+	  "spacing": true
+	},
+	"textdomain": "yellowduck-logo",
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}
