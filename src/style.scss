@@ -6,6 +6,7 @@
  */
 
 .wp-block-yellowduck-site-logo {
+  display: flex;
   &, & svg {
 	color: inherit;
   }
